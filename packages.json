@@ -7,7 +7,7 @@
         "package": "mrgsim.parallel",
         "url": "https://github.com/kylebaron/mrgsim.parallel"
     },
-        {
+    {
         "package": "dmutate",
         "url": "https://github.com/kylebaron/dmutate"
     }
