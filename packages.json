@@ -10,9 +10,5 @@
     {
         "package": "dmutate",
         "url": "https://github.com/kylebaron/dmutate"
-    },
-    {
-        "package": "mrgsim.ds",
-        "url": "https://github.com/kylebaron/mrgsim.ds"
     }
 ]
